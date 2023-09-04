@@ -15,7 +15,7 @@ const myAnswerFeedbackElement = document.getElementById('answerFeedback');
 myAnswerButton.addEventListener('click', () => {
 
     /* din kode her.  husk at skrive view funktion der viser om svaret er korrekt i myAnsverFeedbackElement, brug evt. innerHTML*/
-
+    
 });
 
 /*Opgave 2: udkommenter opgave 1, og omskriv nu din funktion til to korrekte svar:

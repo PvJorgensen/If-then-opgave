@@ -8,11 +8,11 @@ nej
 */
 
 
-const myAnsverInput = document.getElementById('answerOne');
-const myAnsverButton = document.getElementById('answerButton');
-const myAnsverFeedbackElement = document.getElementById('answerFeedback');
+const myAnswerInput = document.getElementById('answerOne');
+const myAnswerButton = document.getElementById('answerButton');
+const myAnswerFeedbackElement = document.getElementById('answerFeedback');
 
-myAnsverButton.addEventListener('click', () => {
+myAnswerButton.addEventListener('click', () => {
 
     /* din kode her.  husk at skrive view funktion der viser om svaret er korrekt i myAnsverFeedbackElement, brug evt. innerHTML*/
 
